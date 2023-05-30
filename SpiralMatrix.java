@@ -38,6 +38,7 @@ public class SpiralMatrix {
             startcol++;
             endcol--;
         }
+        System.out.println();
     }
 
     public static void main(String[] args) {
